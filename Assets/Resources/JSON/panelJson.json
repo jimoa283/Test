@@ -1,0 +1,26 @@
+[
+  {
+    "UIPanelType": "LoginPanel",
+    "path": "Panel/LoginPanel"
+  },
+  {
+    "UIPanelType": "RegisterPanel",
+    "path": "Panel/RegisterPanel"
+  },
+  {
+    "UIPanelType": "MainPanel",
+    "path": "Panel/MainPanel"
+  },
+  {
+    "UIPanelType": "BitMapPanel",
+    "path": "Panel/BitMapPanel"
+  },
+  {
+    "UIPanelType": "CreateFilePanel",
+    "path": "Panel/CreateFilePanel"
+  },
+  {
+    "UIPanelType": "OtherFilePanel",
+    "path": "Panel/OtherFileActionPanel"
+  }
+]
